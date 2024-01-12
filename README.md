@@ -1,0 +1,1 @@
+The objective of this project is to implement a Java-based encryption and decryption system to ensure data security. Employ advanced cryptographic techniques for robust protection and contribute to enhancing overall information confidentiality in applications.
